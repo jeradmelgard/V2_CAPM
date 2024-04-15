@@ -7,3 +7,8 @@ plotly==5.15.0
 dash==2.16.1
 plotly==5.15.0
 shutup==0.2.0
+jupyterlab==4.1.6
+notebook==6.5.5
+voila==0.5.6
+yfinance==0.2.37
+
