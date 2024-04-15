@@ -1,1 +1,9 @@
-
+numpy==1.25.2
+pandas==2.0.3
+matplotlib==3.7.1
+scipy==1.11.4
+seaborn==0.13.1
+plotly==5.15.0
+dash==2.16.1
+plotly==5.15.0
+shutup==0.2.0
