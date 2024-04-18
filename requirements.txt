@@ -77,7 +77,7 @@ jupyter-ydoc==0.2.4
 jupyterhub==3.1.1
 jupyterlab==4.1.6
 jupyterlab-pygments==0.2.2
-jupyterlab_serve==2.25.0
+jupyterlab_serve==4.1.6
 jupyterlab-widgets==3.0.9
 kiwisolver==1.4.5
 lxml==5.2.1
